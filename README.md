@@ -1,5 +1,12 @@
 
 # Employee Turnover Rate Prediction
+#COMPANY:CODETECH FUTURN INTERN
+
+#NAME:VENKATA SRINIVASA RAO KILLADI
+
+#DOMAIN:DATA SCIENCE
+
+#DURATION:1 MONTH
 If an employee that you have invested so much time and money leaves for other companies, then this would mean
 that you would have to spend even more time and money to hire somebody else. 
 Making use of
@@ -14,7 +21,7 @@ For example, their job profile, years completed in the company, their recent man
 
 ## Dataset link
 
-
+[ideaspiceemployeeturnoverdatset.csv](https://github.com/user-attachments/files/20928128/ideaspiceemployeeturnoverdatset.csv)
 
 ## Feature engineering
 
